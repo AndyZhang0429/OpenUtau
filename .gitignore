@@ -343,3 +343,4 @@ Microsoft.AI.DirectML
 
 # VS Code extensions autogen
 *.csproj.lscache
+tmp/
