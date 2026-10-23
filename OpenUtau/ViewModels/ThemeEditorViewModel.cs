@@ -13,7 +13,7 @@ using OpenUtau.Colors;
 namespace OpenUtau.App.ViewModels {
     public class ThemeEditorStateChangedEvent { }
 
-    public class ThemeEditorViewModel : ViewModelBase {
+    public partial class ThemeEditorViewModel : ViewModelBase {
 
         private readonly string customThemePath;
 
